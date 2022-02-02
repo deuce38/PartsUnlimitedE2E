@@ -4,6 +4,8 @@ using System.ComponentModel.DataAnnotations;
 //My first change
 namespace PartsUnlimited.Models
 {
+
+    //Change 2
     public class CartItem : ILineItem
     {
         [Key]
